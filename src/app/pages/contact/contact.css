@@ -1,0 +1,8 @@
+.section {
+    min-height: 78.5vh;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
